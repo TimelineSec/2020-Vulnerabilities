@@ -2,7 +2,7 @@
 本项目为Timeline Sec团队2020年复现的所有漏洞。
 
 # 贡献者
-水木逸轩（组长）、PingPig、daxi0ng、zhang0b、Ly、十一、falry、li9hu、s1mp1e、microworld、纸超人、🐟、hatjwe、Menge、蚂蚁、DEADF1SH_CAT、小泫、口算md5、idolVegeta、ebounce、Loading、蔷薇等
+水木逸轩（组长）、PingPig、daxi0ng、zhang0b、Ly、十一、falry、li9hu、s1mp1e、microworld、纸超人、🐟、hatjwe、Menge、蚂蚁、DEADF1SH_CAT、小泫、口算md5、idolVegeta、ebounce、Loading、蔷薇、蔷薇柠檬等
 
 # 疑问解答
 + Q：后续还会有更新吗？
